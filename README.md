@@ -56,7 +56,7 @@ A production-ready Traveling Salesman Problem (TSP) solver implementing multiple
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/tsp-solver.git
+git clone https://github.com/GoodbyeKittyy/tsp-solver.git
 cd tsp-solver
 
 # Create virtual environment (recommended)
@@ -552,7 +552,7 @@ This project is licensed under the MIT License - see LICENSE file for details.
 
 ## 📧 Contact
 
-For questions or issues, please open a GitHub issue or contact [your-email@example.com]
+For questions or issues, please open a GitHub issue
 
 ## 🔗 References
 
