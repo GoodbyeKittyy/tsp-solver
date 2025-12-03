@@ -3,6 +3,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
+</br>
+<img width="785" height="532" alt="image" src="https://github.com/user-attachments/assets/89e7e30f-186d-4ea8-908e-139e9dd5f382" />
+
+</br>
+
 A production-ready Traveling Salesman Problem (TSP) solver implementing multiple algorithms including Held-Karp (exact), Christofides (approximation), and various heuristics. Designed for logistics, manufacturing, and circuit design applications.
 
 ## 🚀 Features
